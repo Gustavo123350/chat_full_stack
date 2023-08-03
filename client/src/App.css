@@ -1,0 +1,39 @@
+body {
+  background-image: url("./paperede.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+h1{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 3em;
+      font-style: oblique;
+
+}
+input{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border-radius: 4%;
+    font-size:  2rem;
+   background-color: whitesmoke;
+}
+button{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border-radius: 50%;
+   background-color:darkred;
+   font-size:  2rem;
+}
+:placeholder-shown{
+  background-color:  whitesmoke ;
+}
+.user{
+    font-size: 2rem;
+     
+}
